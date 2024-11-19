@@ -22,7 +22,7 @@ const Hero = () => {
           </ProfileImageWrapper>
           <HeroTitle>
             Vaughn Gavin
-            <GradientSpan>Senior Software Engineer & CTO</GradientSpan>
+            <GradientSpan>CTO / Senior Software Engineer / Maker</GradientSpan>
           </HeroTitle>
           <HeroText>
             Building exceptional digital experiences through innovative engineering and strategic leadership
